@@ -36,6 +36,18 @@ CRMHub is a dynamic and modular **Customer Relationship Management (CRM)** solut
 
 ---
 
+![Login Page](screenshots/CRMHub-Auth.png)
+![Registration Page](screenshots/CRMHub-Auth-Register.png)
+![Light Dashboard](screenshots/Dashboard-Light.png)
+![Dark Dashboard](screenshots/Dashboard-Dark.png)
+![Companies Module](screenshots/Companies-Dark.png)
+![Company Profile](screenshots/Companies-Dark-View.png)
+![Company Edit](screenshots/Companies-Dark-Edit.png)
+![Contact Profile](screenshots/Contact-Light-View.png)
+![Task Add](screenshots/Tasks-Dark-Add.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
