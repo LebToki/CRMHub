@@ -51,11 +51,11 @@ CRMHub is a dynamic and modular **Customer Relationship Management (CRM)** solut
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **PHP**: 7.4 or later.
+- **PHP**: 8.x or later.
 - **MySQL**: 5.7 or later.
 - **Apache/Nginx**: Ensure mod_rewrite is enabled.
 - **Composer**: For dependency management.
-- **FullCalendar Library**: Integrated via CDN.
+
 
 ## 🛠 Configuration
 
